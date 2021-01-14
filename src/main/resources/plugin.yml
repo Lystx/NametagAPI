@@ -1,0 +1,9 @@
+name: NametagAPI
+version: SNAPSHOT-1.0
+author: Lystx
+main: me.lystx.tagapi.NametagAPI
+
+commands:
+  nte:
+    aliases: [nametag, nametags]
+    description: MainCommand

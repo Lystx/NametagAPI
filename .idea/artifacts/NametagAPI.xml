@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NametagAPI">
+    <output-path>E:/Localhost/Spigot/plugins</output-path>
+    <root id="archive" name="NametagAPI.jar">
+      <element id="module-output" name="NametagAPI" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.8.8/spigot-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
